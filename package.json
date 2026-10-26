@@ -1,0 +1,15 @@
+{
+  "name": "mind-the-game",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Stage-by-stage tactical replays that explain the contributions behind a goal.",
+  "engines": { "node": ">=20.6" },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server/server.cjs",
+    "check": "node scripts/check-prototype.cjs",
+    "build": "node scripts/build-cases.cjs",
+    "synthetic": "node scripts/synthetic/generate-counter-01.cjs",
+    "pipeline": "node scripts/pipeline/run.cjs data/synthetic/counter-01.input.json",
+    "pipeline:ai": "node --env-file-if-exists=.env scripts/pipeline/run.cjs data/synthetic/counter-01.input.json --explainer ai"
+  }
+}

@@ -1,0 +1,10 @@
+media
+working-frames
+.env
+.env.*
+*.mov
+*.mp4
+node_modules
+tests
+docs
+data/current-schematic-case.json
