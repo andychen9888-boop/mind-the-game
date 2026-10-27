@@ -4956,19 +4956,19 @@ window.MTG_CASES = [
      45.4
     ],
     "b2": [
-     85.8,
+     85.2,
      4.6
     ],
     "b4": [
-     87.8,
+     86.4,
      26.6
     ],
     "b5": [
-     87.8,
+     86.4,
      44.6
     ],
     "b3": [
-     85.8,
+     85.2,
      66.6
     ],
     "b6": [
@@ -5464,11 +5464,11 @@ window.MTG_CASES = [
      4.2
     ],
     "b4": [
-     84.1,
+     83.9,
      26.2
     ],
     "b5": [
-     84.1,
+     83.9,
      44.2
     ],
     "b3": [
@@ -5544,19 +5544,19 @@ window.MTG_CASES = [
     ],
     "b1": null,
     "b2": [
-     83.3,
+     83.2,
      4.3
     ],
     "b4": [
-     85.3,
+     84.8,
      26.3
     ],
     "b5": [
-     85.3,
+     84.8,
      44.3
     ],
     "b3": [
-     83.3,
+     83.2,
      66.3
     ],
     "b6": [
@@ -5631,19 +5631,19 @@ window.MTG_CASES = [
      45.4
     ],
     "b2": [
-     84.7,
+     84.4,
      4.5
     ],
     "b4": [
-     86.7,
+     85.7,
      26.5
     ],
     "b5": [
-     86.7,
+     85.7,
      44.5
     ],
     "b3": [
-     84.7,
+     84.4,
      66.5
     ],
     "b6": [
@@ -5718,19 +5718,19 @@ window.MTG_CASES = [
      45.4
     ],
     "b2": [
-     85.6,
+     85,
      4.6
     ],
     "b4": [
-     87.6,
+     86.3,
      26.6
     ],
     "b5": [
-     87.6,
+     86.3,
      44.6
     ],
     "b3": [
-     85.6,
+     85,
      66.6
     ],
     "b6": [
@@ -5796,23 +5796,23 @@ window.MTG_CASES = [
      46
     ],
     "b2": [
-     94.4,
+     89.1,
      6.4
     ],
     "b4": [
-     96.4,
+     89.6,
      28.4
     ],
     "b5": [
-     96.4,
+     89.6,
      46.4
     ],
     "b3": [
-     94.4,
+     89.1,
      68.4
     ],
     "b6": [
-     82.4,
+     82.3,
      38.4
     ],
     "b8": [
@@ -5883,19 +5883,19 @@ window.MTG_CASES = [
      45.5
     ],
     "b2": [
-     86.7,
+     85.8,
      4.8
     ],
     "b4": [
-     88.7,
+     86.9,
      26.8
     ],
     "b5": [
-     88.7,
+     86.9,
      44.8
     ],
     "b3": [
-     86.7,
+     85.8,
      66.8
     ],
     "b6": [
@@ -5967,19 +5967,19 @@ window.MTG_CASES = [
      45.6
     ],
     "b2": [
-     87.8,
+     86.4,
      5
     ],
     "b4": [
-     89.8,
+     87.4,
      27
     ],
     "b5": [
-     89.8,
+     87.4,
      45
     ],
     "b3": [
-     87.8,
+     86.4,
      67
     ],
     "b6": [
@@ -6051,19 +6051,19 @@ window.MTG_CASES = [
      45.7
     ],
     "b2": [
-     89.1,
+     87.1,
      5.3
     ],
     "b4": [
-     91.1,
+     88,
      27.3
     ],
     "b5": [
-     91.1,
+     88,
      45.3
     ],
     "b3": [
-     89.1,
+     87.1,
      67.3
     ],
     "b6": [
@@ -6132,19 +6132,19 @@ window.MTG_CASES = [
      45.7
     ],
     "b2": [
-     90.7,
+     87.8,
      5.6
     ],
     "b4": [
-     92.7,
+     88.6,
      27.6
     ],
     "b5": [
-     92.7,
+     88.6,
      45.6
     ],
     "b3": [
-     90.7,
+     87.8,
      67.6
     ],
     "b6": [
@@ -6213,19 +6213,19 @@ window.MTG_CASES = [
      45.8
     ],
     "b2": [
-     92.1,
+     88.4,
      5.7
     ],
     "b4": [
-     94.1,
+     89,
      27.7
     ],
     "b5": [
-     94.1,
+     89,
      45.7
     ],
     "b3": [
-     92.1,
+     88.4,
      67.7
     ],
     "b6": [
@@ -6291,19 +6291,19 @@ window.MTG_CASES = [
      45.9
     ],
     "b2": [
-     93.6,
+     88.9,
      5.9
     ],
     "b4": [
-     95.6,
+     89.4,
      27.9
     ],
     "b5": [
-     95.6,
+     89.4,
      45.9
     ],
     "b3": [
-     93.6,
+     88.9,
      67.9
     ],
     "b6": [
@@ -6363,31 +6363,31 @@ window.MTG_CASES = [
      49.8
     ],
     "b2": [
-     98,
+     90.6,
      17.4
     ],
     "b4": [
-     98,
+     90.8,
      39.4
     ],
     "b5": [
-     98,
+     90.8,
      57.4
     ],
     "b3": [
-     98,
+     90.6,
      79.4
     ],
     "b6": [
-     89.7,
+     87.4,
      49.4
     ],
     "b8": [
-     85.7,
+     85.1,
      33.4
     ],
     "b10": [
-     85.7,
+     85.1,
      65.4
     ],
     "b7": [
@@ -6441,23 +6441,23 @@ window.MTG_CASES = [
      46.1
     ],
     "b2": [
-     94.9,
+     89.2,
      6.7
     ],
     "b4": [
-     96.9,
+     89.7,
      28.7
     ],
     "b5": [
-     96.9,
+     89.7,
      46.7
     ],
     "b3": [
-     94.9,
+     89.2,
      68.7
     ],
     "b6": [
-     82.9,
+     82.8,
      38.7
     ],
     "b8": [
@@ -6516,23 +6516,23 @@ window.MTG_CASES = [
      47
     ],
     "b2": [
-     96.2,
+     89.6,
      9.2
     ],
     "b4": [
-     98,
+     90,
      31.2
     ],
     "b5": [
-     98,
+     90,
      49.2
     ],
     "b3": [
-     96.2,
+     89.6,
      71.2
     ],
     "b6": [
-     84.2,
+     84,
      41.2
     ],
     "b8": [
@@ -6591,23 +6591,23 @@ window.MTG_CASES = [
      48.3
     ],
     "b2": [
-     97.7,
+     89.9,
      12.9
     ],
     "b4": [
-     98,
+     90.3,
      34.9
     ],
     "b5": [
-     98,
+     90.3,
      52.9
     ],
     "b3": [
-     97.7,
+     89.9,
      74.9
     ],
     "b6": [
-     85.7,
+     85.1,
      44.9
     ],
     "b8": [
@@ -6663,31 +6663,31 @@ window.MTG_CASES = [
      49.4
     ],
     "b2": [
-     98,
+     90.3,
      16.2
     ],
     "b4": [
-     98,
+     90.6,
      38.2
     ],
     "b5": [
-     98,
+     90.6,
      56.2
     ],
     "b3": [
-     98,
+     90.3,
      78.2
     ],
     "b6": [
-     87.9,
+     86.5,
      48.2
     ],
     "b8": [
-     83.9,
+     83.8,
      32.2
     ],
     "b10": [
-     83.9,
+     83.8,
      64.2
     ],
     "b7": [
@@ -6735,31 +6735,31 @@ window.MTG_CASES = [
      49.8
     ],
     "b2": [
-     98,
+     90.6,
      17.5
     ],
     "b4": [
-     98,
+     90.8,
      39.5
     ],
     "b5": [
-     98,
+     90.8,
      57.5
     ],
     "b3": [
-     98,
+     90.6,
      79.5
     ],
     "b6": [
-     89.5,
+     87.3,
      49.5
     ],
     "b8": [
-     85.5,
+     85,
      33.5
     ],
     "b10": [
-     85.5,
+     85,
      65.5
     ],
     "b7": [
@@ -7672,7 +7672,7 @@ window.MTG_CASES = [
      "a7",
      "a10",
      "b5",
-     "b3"
+     "b6"
     ],
     "ball": [
      [
@@ -7773,14 +7773,13 @@ window.MTG_CASES = [
        "en": "Interpretation"
       },
       "text": {
-       "zh": "進入前場時，9 號、7 號、10 號同時往禁區跑，提供了不同的接應位置。無球跑動時，鄰近的防守者也朝同一方向移動：9 號（鄰近：湖岸聯 5 號）、7 號（鄰近：湖岸聯 3 號）、10 號（鄰近：湖岸聯 6 號）。資料只顯示同時移動，不能證明防守者是被跑動吸引。",
-       "en": "As the ball enters the final third, #9, #7 and #10 run toward the box, offering different receiving positions. During the off-ball runs, a nearby defender moved the same way: #9 (nearby: Lakeshore #5), #7 (nearby: Lakeshore #3), #10 (nearby: Lakeshore #6). The data shows simultaneous movement only; it does not prove the defenders were drawn by the runs."
+       "zh": "進入前場時，9 號、7 號、10 號同時往禁區跑，提供了不同的接應位置。無球跑動時，鄰近的防守者也朝同一方向移動：9 號（鄰近：湖岸聯 5 號）、10 號（鄰近：湖岸聯 6 號）。資料只顯示同時移動，不能證明防守者是被跑動吸引。",
+       "en": "As the ball enters the final third, #9, #7 and #10 run toward the box, offering different receiving positions. During the off-ball runs, a nearby defender moved the same way: #9 (nearby: Lakeshore #5), #10 (nearby: Lakeshore #6). The data shows simultaneous movement only; it does not prove the defenders were drawn by the runs."
       },
       "refs": [
        "e10",
        "e12",
        "e08",
-       "e09",
        "e11"
       ]
      },
@@ -7970,8 +7969,8 @@ window.MTG_CASES = [
        "en": "Observation"
       },
       "text": {
-       "zh": "11 號從左路傳中，找到禁區裡的 9 號。9 號頭球攻門。球進了。開始時，畫面中位於球前方（靠近湖岸聯球門）的湖岸聯球員有 5 人；結束時有 0 人。這段期間，可見範圍內有 8 名湖岸聯球員往自己球門方向移動。",
-       "en": "#11 crosses from the left to #9 in the box. #9 heads at goal. The shot goes in. At the start, 5 visible Lakeshore United players are ahead of the ball (closer to their goal); at the end, 0. During the stage, 8 visible Lakeshore United players move toward their own goal."
+       "zh": "11 號從左路傳中，找到禁區裡的 9 號。9 號頭球攻門。球進了。開始時，畫面中位於球前方（靠近湖岸聯球門）的湖岸聯球員有 5 人；結束時有 0 人。這段期間，可見範圍內有 6 名湖岸聯球員往自己球門方向移動。",
+       "en": "#11 crosses from the left to #9 in the box. #9 heads at goal. The shot goes in. At the start, 5 visible Lakeshore United players are ahead of the ball (closer to their goal); at the end, 0. During the stage, 6 visible Lakeshore United players move toward their own goal."
       },
       "refs": [
        "e13",
@@ -8765,15 +8764,15 @@ window.MTG_CASES = [
      31
     ],
     "q5": [
-     98,
-     63.6
+     88.1,
+     61.6
     ],
     "q2": [
-     95.6,
+     87.3,
      13.6
     ],
     "q3": [
-     95.6,
+     87.3,
      85.6
     ],
     "q6": [
@@ -8781,11 +8780,11 @@ window.MTG_CASES = [
      48.5
     ],
     "q8": [
-     85.6,
+     85.1,
      33.6
     ],
     "q10": [
-     85.6,
+     85.1,
      65.6
     ],
     "q7": [
@@ -8852,15 +8851,15 @@ window.MTG_CASES = [
      30.4
     ],
     "q5": [
-     97.3,
-     61.2
+     86.4,
+     59.2
     ],
     "q2": [
-     91.3,
+     84.7,
      11.2
     ],
     "q3": [
-     91.3,
+     84.7,
      83.2
     ],
     "q6": [
@@ -8939,15 +8938,15 @@ window.MTG_CASES = [
      29.7
     ],
     "q5": [
-     98,
-     62.9
+     88,
+     60.9
     ],
     "q2": [
-     95.4,
+     87.2,
      12.9
     ],
     "q3": [
-     95.4,
+     87.2,
      84.9
     ],
     "q6": [
@@ -8955,11 +8954,11 @@ window.MTG_CASES = [
      47.8
     ],
     "q8": [
-     85.4,
+     84.9,
      32.9
     ],
     "q10": [
-     85.4,
+     84.9,
      64.9
     ],
     "q7": [
@@ -9026,15 +9025,15 @@ window.MTG_CASES = [
      28
     ],
     "q5": [
-     98,
-     60.9
+     87.7,
+     58.9
     ],
     "q2": [
-     94.7,
+     86.9,
      10.9
     ],
     "q3": [
-     94.7,
+     86.9,
      82.9
     ],
     "q6": [
@@ -9042,11 +9041,11 @@ window.MTG_CASES = [
      46.7
     ],
     "q8": [
-     84.7,
+     84.3,
      30.9
     ],
     "q10": [
-     84.7,
+     84.3,
      62.9
     ],
     "q7": [
@@ -9113,15 +9112,15 @@ window.MTG_CASES = [
      28
     ],
     "q5": [
-     98,
-     58.9
+     87.5,
+     56.9
     ],
     "q2": [
-     93.9,
+     86.5,
      8.9
     ],
     "q3": [
-     93.9,
+     86.5,
      80.9
     ],
     "q6": [
@@ -9129,11 +9128,11 @@ window.MTG_CASES = [
      45.6
     ],
     "q8": [
-     83.9,
+     83.8,
      28.9
     ],
     "q10": [
-     83.9,
+     83.8,
      60.9
     ],
     "q7": [
@@ -9200,15 +9199,15 @@ window.MTG_CASES = [
      28.9
     ],
     "q5": [
-     98,
-     58.6
+     87.1,
+     56.6
     ],
     "q2": [
-     92.9,
+     85.9,
      8.6
     ],
     "q3": [
-     92.9,
+     85.9,
      80.6
     ],
     "q6": [
@@ -9216,11 +9215,11 @@ window.MTG_CASES = [
      44.4
     ],
     "q8": [
-     82.9,
+     82.8,
      28.6
     ],
     "q10": [
-     82.9,
+     82.8,
      60.6
     ],
     "q7": [
@@ -9287,15 +9286,15 @@ window.MTG_CASES = [
      29.7
     ],
     "q5": [
-     97.9,
-     60
+     86.7,
+     58
     ],
     "q2": [
-     91.9,
+     85.2,
      10
     ],
     "q3": [
-     91.9,
+     85.2,
      82
     ],
     "q6": [
@@ -9374,15 +9373,15 @@ window.MTG_CASES = [
      33.8
     ],
     "q5": [
-     98,
-     62.3
+     88.2,
+     60.3
     ],
     "q2": [
-     95.9,
+     87.5,
      12.3
     ],
     "q3": [
-     95.9,
+     87.5,
      84.3
     ],
     "q6": [
@@ -9390,11 +9389,11 @@ window.MTG_CASES = [
      46
     ],
     "q8": [
-     85.9,
+     85.2,
      32.3
     ],
     "q10": [
-     85.9,
+     85.2,
      64.3
     ],
     "q7": [
@@ -9461,15 +9460,15 @@ window.MTG_CASES = [
      30.6
     ],
     "q5": [
-     97.1,
-     61.5
+     86.3,
+     59.5
     ],
     "q2": [
-     91.1,
+     84.6,
      11.5
     ],
     "q3": [
-     91.1,
+     84.6,
      83.5
     ],
     "q6": [
@@ -9548,15 +9547,15 @@ window.MTG_CASES = [
      31.4
     ],
     "q5": [
-     97.2,
-     61.7
+     86.3,
+     59.7
     ],
     "q2": [
-     91.2,
+     84.7,
      11.7
     ],
     "q3": [
-     91.2,
+     84.7,
      83.7
     ],
     "q6": [
@@ -9635,15 +9634,15 @@ window.MTG_CASES = [
      32.3
     ],
     "q5": [
-     98,
-     61.6
+     87,
+     59.6
     ],
     "q2": [
-     92.6,
+     85.7,
      11.6
     ],
     "q3": [
-     92.6,
+     85.7,
      83.6
     ],
     "q6": [
@@ -9722,15 +9721,15 @@ window.MTG_CASES = [
      33.1
     ],
     "q5": [
-     98,
-     61.7
+     87.8,
+     59.7
     ],
     "q2": [
-     94.7,
+     86.9,
      11.7
     ],
     "q3": [
-     94.7,
+     86.9,
      83.7
     ],
     "q6": [
@@ -9738,11 +9737,11 @@ window.MTG_CASES = [
      45.8
     ],
     "q8": [
-     84.7,
+     84.4,
      31.7
     ],
     "q10": [
-     84.7,
+     84.4,
      63.7
     ],
     "q7": [
@@ -10064,8 +10063,8 @@ window.MTG_CASES = [
        "en": "Observation"
       },
       "text": {
-       "zh": "9 號上前逼搶持球的河畔隊 4 號。河畔隊 4 號把球傳給河畔隊 6 號。8 號上前逼搶持球的河畔隊 6 號。8 號搶下球，奪回球權。開始時，畫面中位於球前方（靠近河畔隊球門）的河畔隊球員有 4 人；結束時有 8 人。",
-       "en": "#9 presses Riverside #4 on the ball. Riverside #4 passes to Riverside #6. #8 presses Riverside #6 on the ball. #8 wins the ball back with a tackle. At the start, 4 visible Riverside players are ahead of the ball (closer to their goal); at the end, 8."
+       "zh": "9 號上前逼搶持球的河畔隊 4 號。河畔隊 4 號把球傳給河畔隊 6 號。8 號上前逼搶持球的河畔隊 6 號。8 號搶下球，奪回球權。開始時，畫面中位於球前方（靠近河畔隊球門）的河畔隊球員有 1 人；結束時有 8 人。",
+       "en": "#9 presses Riverside #4 on the ball. Riverside #4 passes to Riverside #6. #8 presses Riverside #6 on the ball. #8 wins the ball back with a tackle. At the start, 1 visible Riverside player is ahead of the ball (closer to their goal); at the end, 8."
       },
       "refs": [
        "e02",
@@ -10285,8 +10284,8 @@ window.MTG_CASES = [
        "en": "Observation"
       },
       "text": {
-       "zh": "8 號把球傳給 10 號。10 號射門。球進了。開始時，畫面中位於球前方（靠近河畔隊球門）的河畔隊球員有 8 人；結束時有 0 人。這段期間，可見範圍內有 8 名河畔隊球員往自己球門方向移動。",
-       "en": "#8 passes to #10. #10 shoots. The shot goes in. At the start, 8 visible Riverside players are ahead of the ball (closer to their goal); at the end, 0. During the stage, 8 visible Riverside players move toward their own goal."
+       "zh": "8 號把球傳給 10 號。10 號射門。球進了。開始時，畫面中位於球前方（靠近河畔隊球門）的河畔隊球員有 8 人；結束時有 0 人。這段期間，可見範圍內有 6 名河畔隊球員往自己球門方向移動。",
+       "en": "#8 passes to #10. #10 shoots. The shot goes in. At the start, 8 visible Riverside players are ahead of the ball (closer to their goal); at the end, 0. During the stage, 6 visible Riverside players move toward their own goal."
       },
       "refs": [
        "e09",

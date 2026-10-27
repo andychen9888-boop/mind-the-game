@@ -9,7 +9,7 @@ const nm = (team, short, zh, en) => team === 'eas' ? { zh: `東港 ${short} 號 
 const W = (team, id, short, zh, en, role, waypoints) => ({ id, team, short, name: nm(team, short, zh, en), role, waypoints });
 const F = (team, id, short, zh, en, role, base, follow) => ({ id, team, short, name: nm(team, short, zh, en), role, base, follow });
 const ATT = { kx: 0.5, ky: 0.15, minX: 3 };
-const DEF = { kx: 0.3, ky: 0.3, maxX: 98 };
+const DEF = { kx: 0.3, ky: 0.3, maxX: 92 }; // never pushed onto the goal line
 build({
   caseId: 'synthetic-press-03',
   script: 'scripts/synthetic/generate-press-03.cjs',
@@ -36,9 +36,9 @@ build({
     W('eas', 'p7', '7', '右邊鋒', 'right winger', 'RW', [[1200.0, 72, 76], [1202.6, 74, 72], [1204.6, 86, 62], [1205.5, 87, 60]]),
     W('riv', 'q1', '1', '門將', 'goalkeeper', 'GK', [[1200.0, 96, 50], [1203.4, 95, 49], [1204.2, 96, 46], [1205.5, 96, 46]]),
     W('riv', 'q4', '4', '中後衛', 'centre-back', 'CB', [[1200.0, 90, 34], [1201.4, 88, 28], [1202.0, 88, 28], [1205.5, 92, 34]]),
-    F('riv', 'q5', '5', '中後衛', 'centre-back', 'CB', [88, 64], DEF),
-    F('riv', 'q2', '2', '右後衛', 'right-back', 'RB', [82, 14], DEF),
-    F('riv', 'q3', '3', '左後衛', 'left-back', 'LB', [82, 86], DEF),
+    F('riv', 'q5', '5', '中後衛', 'centre-back', 'CB', [80, 62], { kx: 0.25, ky: 0.3, maxX: 92 }),
+    F('riv', 'q2', '2', '右後衛', 'right-back', 'RB', [76, 14], DEF),
+    F('riv', 'q3', '3', '左後衛', 'left-back', 'LB', [76, 86], DEF),
     W('riv', 'q6', '6', '防守中場', 'holding midfielder', 'DM', [[1200.0, 82, 50], [1202.7, 79, 44], [1203.2, 79.5, 45], [1205.5, 84, 46]]),
     F('riv', 'q8', '8', '中場', 'midfielder', 'CM', [72, 34], DEF),
     F('riv', 'q10', '10', '中場', 'midfielder', 'CM', [72, 66], DEF),

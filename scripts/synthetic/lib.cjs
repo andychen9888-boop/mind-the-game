@@ -34,7 +34,11 @@ function follow(p, ball, t) {
   const lagged = [0, 0.4, 0.8, 1.2].map(d => ball(t - d)).reduce((a, b) => [a[0] + b[0] / 4, a[1] + b[1] / 4], [0, 0]);
   const f = p.follow;
   const x = p.base[0] + f.kx * (lagged[0] - 50), y = p.base[1] + f.ky * (lagged[1] - 50);
-  return [clamp(x, f.minX ?? 1, f.maxX ?? 99), clamp(y, 2, 98)];
+  // Soft depth limit: approaching maxX, the shift slows down smoothly instead of stopping dead, so a
+  // back line keeps staggered depths rather than standing in one straight row on the limit.
+  let xx = x;
+  if (f.maxX !== undefined && f.maxX < 95) { const soft = f.maxX - 10; if (xx > soft) xx = soft + 10 * (1 - Math.exp(-(xx - soft) / 10)); }
+  return [clamp(xx, f.minX ?? 1, f.maxX ?? 99), clamp(y, 2, 98)];
 }
 
 function build(spec, outFile) {

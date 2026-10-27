@@ -8,7 +8,7 @@ const root = path.resolve(__dirname, '../..');
 const W = (id, short, zh, en, role, waypoints) => ({ id, team: 'wes', short, name: { zh: `西野 ${short} 號 ${zh}`, en: `WES #${short} ${en}` }, role, waypoints });
 const F = (team, id, short, zh, en, role, base, follow) => ({ id, team, short, name: team === 'wes' ? { zh: `西野 ${short} 號 ${zh}`, en: `WES #${short} ${en}` } : { zh: `湖岸 ${short} 號 ${zh}`, en: `LAK #${short} ${en}` }, role, base, follow });
 const ATT = { kx: 0.55, ky: 0.18, minX: 3 };          // attackers move up with the ball
-const DEF = { kx: 0.45, ky: 0.35, maxX: 98 };         // defenders shuffle toward the ball, stay goal-side
+const DEF = { kx: 0.45, ky: 0.35, maxX: 92 };         // defenders shuffle toward the ball, stay goal-side, never on the goal line
 build({
   caseId: 'synthetic-buildup-02',
   script: 'scripts/synthetic/generate-buildup-02.cjs',

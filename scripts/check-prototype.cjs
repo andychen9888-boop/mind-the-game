@@ -64,6 +64,16 @@ check('synthetic inputs and cases are reproducible', () => {
     assert.equal(JSON.stringify(JSON.parse(JSON.stringify(fresh))), JSON.stringify(stored), input.caseId + ' differs from pipeline output; rerun node scripts/pipeline/run.cjs');
   }
 });
+check('synthetic defenders are not parked on the goal line', () => {
+  for (const f of fs.readdirSync(path.join(root, 'data/synthetic')).filter(f => f.endsWith('.input.json'))) {
+    const d = JSON.parse(fs.readFileSync(path.join(root, 'data/synthetic', f), 'utf8'));
+    const att = d.match.attackingTeam;
+    for (const p of d.players.filter(p => p.team !== att && p.role !== 'GK')) {
+      const deep = d.frames.filter(fr => fr.positions[p.id] && fr.positions[p.id][0] > 95).length;
+      assert(deep <= 1, `${f}: ${p.name.en} is beyond the six-yard line in ${deep} frames`);
+    }
+  }
+});
 check('explanation guard rejects fabricated or dangling content', () => {
   const { ingest } = require('./pipeline/ingest.cjs');
   const { interpret } = require('./pipeline/interpret.cjs');
